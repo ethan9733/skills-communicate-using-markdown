@@ -1,8 +1,2 @@
-# H1 Header
-
-
-
-
-
-
-Added a header to the file
+# Cool Cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
